@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanmohamed19&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanmohamed19" /> </p>
 
-- 🌱 I’m currently learning **Front End**
-
 - 💬 Ask me about **Android with Kotlin**
 
 - 📫 How to reach me **abdelrahmanmohamed19912@gmail.com**
